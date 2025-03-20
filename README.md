@@ -6,7 +6,7 @@ The implementation of the paper "Incremental Detection of Hyperspectral Targets 
 * Python == 3.7
 
 ## Usage
-Datasets ：https://pan.baidu.com/s/1WarH8IL0MhX1o5plag5ruQ?pwd=9zaw 提取码: 9zaw 复制这段内容后打开百度网盘手机App，操作更方便哦
+Datasets ：https://pan.baidu.com/s/1WarH8IL0MhX1o5plag5ruQ?pwd=9zaw
 
 
 ```
